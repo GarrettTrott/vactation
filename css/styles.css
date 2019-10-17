@@ -1,6 +1,10 @@
 #himage {
   width: 100%;
 }
+#centered {
+  text-align: center;
+  margin-top: 10px;
+}
 
 .quoteimg img {
   width:100%;
@@ -15,4 +19,8 @@
 
 .cardpad {
   padding: 10px;
+}
+
+.cisize {
+  height: 300px;
 }
